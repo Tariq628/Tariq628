@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tariq Ahmed
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently working on Django and JavaScript
+- 🌱 I’m currently working on Django and React
 - 💞️ I’m looking to collaborate with Senior Developers
 - 📫 How to reach me tariqq.ahmed(My Instagram), +923002367003(My WhatsApp)
 
