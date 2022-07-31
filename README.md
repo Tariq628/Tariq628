@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently working on Django and React
 - 💞️ I’m looking to collaborate with Senior Developers
-- 📫 How to reach me tariqq.ahmed(My Instagram), +923002367003(My WhatsApp)
+- 📫 How to reach me tariqq.ahmed(My Instagram), +923029699274(My WhatsApp)
 
 <!---
 Tariq Ahmed is a Web Developer special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
