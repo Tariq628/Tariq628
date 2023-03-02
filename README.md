@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tariq Ahmed
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Api Development
 - 🌱 I’m currently working on Django and React
 - 💞️ I’m looking to collaborate in large products
 - 📫 How to reach me +923029699274(whatsApp)
