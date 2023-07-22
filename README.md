@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tariq Ahmed
 - 👀 I’m interested in API Development
 - 🌱 I’m currently working on Django and React
-- 💞️ I’m looking to collaborate in large products
+- 💞️ I’m looking to collaborate in backend projects
 - 📫 How to reach me: tariqkaleri628@gmail.com
 
 <!---
